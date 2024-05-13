@@ -12,9 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "plugins.block.languageToggle.displayName"
-msgstr "Bloc de changement de langue"
+msgstr "Bloc de commutació de llengües"
 
 msgid "plugins.block.languageToggle.description"
-msgstr ""
-"Ce plugiciel fournit un mécanisme de changement de langue dans l’encadré "
-"latéral."
+msgstr "Aquest mòdul proporciona un commutador de llengües a la barra lateral."
